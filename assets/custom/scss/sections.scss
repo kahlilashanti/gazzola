@@ -51,14 +51,21 @@ section.light {
 
 /* Details, blog */
 
-.infoblock {
-  i::before {  font-size: 32px; color: $hovercolor;  line-height: 40px;  margin: 0;  }
+.infoblock .pricing{
+  i::before {  font-size: 32px; color: blue;  line-height: 40px;  margin: 0;  }
 }
 .details-big-icon:before {
   font-size: 56px;
   margin-left: 0;
-  color: $hovercolor;
+  color: blue;
+  // color: $hovercolor;
   //&:before {color: $hovercolor;}
+}
+
+.pricing{
+  .fa{
+    color:blue;
+  }
 }
 
 /* Counts */
@@ -1285,11 +1292,3 @@ Vertical Timeline
     &:hover {  background: none; border: 2px solid $hovercolor; color: $hovercolor !important;;  }
   }
 }
-
-
-
-
-
-
-
-
