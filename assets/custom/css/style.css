@@ -3,6 +3,10 @@
   color: blue;
 }
 
+.light-back{
+  background-color: #4c5767
+}
+
 .bg-john-00 {
   background: url("../images/02-john/backgrounds/00.jpg"); }
 
@@ -196,7 +200,7 @@
   color: #E84855 !important; }
 
 .dark-blue {
-  color: #252b33 !important; }
+  color: #627084 !important; }
 
 .color00 {
   color: #fff !important; }
@@ -298,7 +302,7 @@
   background-color: #252b33 !important; }
 
 .bg-darkblue2 {
-  background-color: #21262d !important; }
+  background-color: #627084 !important; }
 
 .bg-cyan {
   background-color: #9b59b6 !important; }
