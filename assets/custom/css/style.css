@@ -9,9 +9,9 @@
   text-decoration: none;
 }
 
-.light-back{
+/*.light-back{
   background-color: #4c5767
-}
+}*/
 
 .bg-john-00 {
   background: url("../images/02-john/backgrounds/00.jpg"); }
@@ -38,7 +38,7 @@
   background: url("../images/02-john/backgrounds/07.jpg"); }
 
 .john-timeline-01 {
-  background: url("../images/02-john/timeline/timeline-1.jpg");
+  background: url("../images/02-john/timeline/rob_gaz2.jpg");
   background-position: center;
   background-size: cover; }
 
@@ -1134,7 +1134,7 @@ button, input, select, textarea {
   opacity: 1; }
 
 /* Progress Tracker */
-.slider .indicators .indicator-item.active {
+/*.slider .indicators .indicator-item.active {
   background-color: #E84855 !important; }
 
 .progress-tracker {
@@ -1157,7 +1157,7 @@ button, input, select, textarea {
         border-radius: 0px; }
   .progress-tracker .active {
     background-color: #E84855 !important;
-    border-color: #E84855 !important; }
+    border-color: #E84855 !important; }*/
 
 /* Content */
 #content {
